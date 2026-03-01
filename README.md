@@ -1,4 +1,4 @@
-# analise-sistemas-otimizacao-processos
+# analise-sistemas-otimizaçao-processos-de-aquisição
 Projeto com objetivo de Adquirir novos clientes onde um time de Atendimento possa estar participando processo na jornada de um novo cliente, a viabilidade de efetivar um acompanhamento da jornada do cliente / lead, onde é detectado dentro dos modelos de atendimento do  um encaminhamento para canais que executam a ação necessária. Após um acompanhamento, métricas e indicadores do resultado gerado  para ser visualizado. Dessa forma o projeto tem intuíto de  tangibilizar essas efetivações e acompanhamento dos resultados gerados.
 
 Projeto de Análise de Sistemas — Otimização de Processos Operacionais IAA (Iniciativa Atendimento Aquisição)
