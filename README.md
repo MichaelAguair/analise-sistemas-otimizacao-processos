@@ -26,7 +26,7 @@ Desenvolver uma estratégia para preparar o cliente antes mesmo do contato ini
 - BPMN
 
 -- Resultados (simulados)
-- Conversão de 74,35% dos clientes acompanhandos 
+- Conversão de 55,32% dos clientes acompanhandos 
 - Melhoria no SLA de retorno
 - Diversidade de Prodtudos adquiridos
 - Aumento da visibilidade de indicadores
