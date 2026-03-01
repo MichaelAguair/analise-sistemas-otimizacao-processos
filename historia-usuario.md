@@ -1,4 +1,5 @@
 STORY USER
+
 Ferramenta de Chat
 – Eu como atendimento preciso conseguir identificar clientes, leads que apresentem potencial em uma possível contratação de produtos.
 - Eu como atendimento preciso criar conexão com os possíveis clientes
